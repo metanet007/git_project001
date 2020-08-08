@@ -6,7 +6,11 @@ public class FirstClass {
 		
 		System.out.println("our first commit from local repo");
 		System.out.println("our second commit from local repository");
+<<<<<<< HEAD
 		System.out.println("now i am on my metin branch");
+=======
+		
+>>>>>>> feature
 
 	}
 
