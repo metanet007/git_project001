@@ -2,13 +2,10 @@ package first_package;
 
 public class DenemeFeature {
 
-	public static void main(String[] args) {
-<<<<<<< HEAD
+	public static void main(String[] args){
+	System.out.println("this is my commit from feature branch");
+	System.out.println("this is my commit from remote feature branch");
 		
-		
-=======
-		// TODO Auto-generated method stub
->>>>>>> feature
 
 	}
 
